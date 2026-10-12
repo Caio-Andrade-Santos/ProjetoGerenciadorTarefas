@@ -1,0 +1,14 @@
+C:\Users\cavia\OneDrive\Documentos\Estudos\C#\ProjetoGerenciadorTarefas\ProjetoGerenciadorTarefas\bin\Debug\net8.0\ProjetoGerenciadorTarefas.exe
+C:\Users\cavia\OneDrive\Documentos\Estudos\C#\ProjetoGerenciadorTarefas\ProjetoGerenciadorTarefas\bin\Debug\net8.0\ProjetoGerenciadorTarefas.deps.json
+C:\Users\cavia\OneDrive\Documentos\Estudos\C#\ProjetoGerenciadorTarefas\ProjetoGerenciadorTarefas\bin\Debug\net8.0\ProjetoGerenciadorTarefas.runtimeconfig.json
+C:\Users\cavia\OneDrive\Documentos\Estudos\C#\ProjetoGerenciadorTarefas\ProjetoGerenciadorTarefas\bin\Debug\net8.0\ProjetoGerenciadorTarefas.dll
+C:\Users\cavia\OneDrive\Documentos\Estudos\C#\ProjetoGerenciadorTarefas\ProjetoGerenciadorTarefas\bin\Debug\net8.0\ProjetoGerenciadorTarefas.pdb
+C:\Users\cavia\OneDrive\Documentos\Estudos\C#\ProjetoGerenciadorTarefas\ProjetoGerenciadorTarefas\obj\Debug\net8.0\ProjetoGerenciadorTarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cavia\OneDrive\Documentos\Estudos\C#\ProjetoGerenciadorTarefas\ProjetoGerenciadorTarefas\obj\Debug\net8.0\ProjetoGerenciadorTarefas.AssemblyInfoInputs.cache
+C:\Users\cavia\OneDrive\Documentos\Estudos\C#\ProjetoGerenciadorTarefas\ProjetoGerenciadorTarefas\obj\Debug\net8.0\ProjetoGerenciadorTarefas.AssemblyInfo.cs
+C:\Users\cavia\OneDrive\Documentos\Estudos\C#\ProjetoGerenciadorTarefas\ProjetoGerenciadorTarefas\obj\Debug\net8.0\ProjetoGerenciadorTarefas.csproj.CoreCompileInputs.cache
+C:\Users\cavia\OneDrive\Documentos\Estudos\C#\ProjetoGerenciadorTarefas\ProjetoGerenciadorTarefas\obj\Debug\net8.0\ProjetoGerenciadorTarefas.dll
+C:\Users\cavia\OneDrive\Documentos\Estudos\C#\ProjetoGerenciadorTarefas\ProjetoGerenciadorTarefas\obj\Debug\net8.0\refint\ProjetoGerenciadorTarefas.dll
+C:\Users\cavia\OneDrive\Documentos\Estudos\C#\ProjetoGerenciadorTarefas\ProjetoGerenciadorTarefas\obj\Debug\net8.0\ProjetoGerenciadorTarefas.pdb
+C:\Users\cavia\OneDrive\Documentos\Estudos\C#\ProjetoGerenciadorTarefas\ProjetoGerenciadorTarefas\obj\Debug\net8.0\ProjetoGerenciadorTarefas.genruntimeconfig.cache
+C:\Users\cavia\OneDrive\Documentos\Estudos\C#\ProjetoGerenciadorTarefas\ProjetoGerenciadorTarefas\obj\Debug\net8.0\ref\ProjetoGerenciadorTarefas.dll
